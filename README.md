@@ -1,16 +1,31 @@
-# calculator_app
+# Calculator App
 
-A new Flutter project.
+## Project Description
 
-## Getting Started
+This calculator app is built using Flutter, designed to perform basic arithmetic operations (*, /, +, -) with ease. It features a simple and intuitive user interface for seamless operation.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Arithmetic Operations**: Supports basic operations (*, /, +, -).
+- **Clear Functionality**: Allows deleting single entries and clearing all inputs.
+- **Result Display**: Updates results dynamically as inputs are entered.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="https://github.com/AbanoubHabib/Calculator-app/assets/174719714/cc399778-d8a5-4e2e-a339-ddcb41075236" alt="Screenshot 1" style="width: 30%; margin-bottom: 10px;">
+  <img src="https://github.com/AbanoubHabib/Calculator-app/assets/174719714/e9a69796-28b3-4d2f-8291-3c3562ede7e7" alt="Screenshot 2" style="width: 30%; margin-bottom: 10px;">
+</div>
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&label=Abanoub%20Habib)](https://www.linkedin.com/in/abanoub-habib-81a3a9220)
+
+
+## Project Link
+
+
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repository-black?style=flat-square&logo=github&label=AbanoubHabib/Todo-app)](https://github.com/AbanoubHabib/Calculator-app)
+
+
+
